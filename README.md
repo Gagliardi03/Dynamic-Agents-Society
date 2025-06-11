@@ -116,6 +116,3 @@ Para testar o Agente de Consulta: Consulte o CEP 01001-000
 Para testar o Agente de Análise: Faça uma análise detalhada do endereço do CEP 04538-132
 
 Para testar o Agente Central: Olá, o que você faz?
-
-📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
