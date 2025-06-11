@@ -1,3 +1,6 @@
+**FALTA IMPLEMEMTAR: MEMORIA NO CHAT**
+
+
 🤖 Sociedade de Agentes A2A para Consultas de CEP
 Este projeto implementa uma arquitetura de múltiplos agentes (A2A - Agent-to-Agent) para criar um sistema inteligente e escalável de consulta e análise de CEPs brasileiros. A principal característica é a utilização de um padrão de descoberta dinâmica de serviços através de "Agent Cards", permitindo que um agente coordenador central descubra e delegue tarefas para agentes especialistas de forma inteligente.
 
