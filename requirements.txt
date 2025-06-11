@@ -1,0 +1,23 @@
+# 🤖 Framework de agentes
+pydantic-ai
+pydantic-ai-slim[mcp]
+
+# 🔌 Protocolo MCP
+mcp
+fastmcp
+
+# 🌐 Servidor web
+fastapi
+uvicorn
+
+# 🌐 Cliente HTTP
+httpx
+
+# 🔧 Utilitários
+python-dotenv
+logfire
+
+# 📊 Dependências básicas
+pydantic
+asyncio
+dataclasses
